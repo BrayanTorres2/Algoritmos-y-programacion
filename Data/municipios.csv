@@ -1,0 +1,1123 @@
+﻿código,nombre,poblaciónUrbana,poblaciónRural,departamento,esCapital
+404,Abejorral,6724,12471,Antioquia,0
+178,Ábrego,17287,21076,Norte de Santander,0
+1090,Abriaquí,738,1337,Antioquia,0
+89,Acacías,60918,11130,Meta,0
+705,Acandí,5259,4246,Chocó,0
+215,Acevedo,6515,27098,Huila,0
+323,Achí,4193,19258,Bolívar,0
+727,Agrado,5366,3745,Huila,0
+644,Agua de Dios,8405,2505,Cundinamarca,0
+67,Aguachica,82976,11888,Cesar,0
+1103,Aguada,222,1607,Santander,0
+354,Aguadas,11594,10271,Caldas,0
+169,Aguazul,30075,9569,Casanare,0
+130,Agustín Codazzi,38619,11436,Cesar,0
+281,Aipe,17008,9925,Huila,0
+878,Albán,1612,4344,Cundinamarca,0
+343,Albán,8212,14210,Nariño,0
+852,Albania,2473,3959,Caquetá,0
+276,Albania,13534,13568,La Guajira,0
+922,Albania,615,4547,Santander,0
+355,Alcalá,11686,10093,Valle del Cauca,0
+877,Aldana,1354,4650,Nariño,0
+1024,Alejandría,1808,1627,Antioquia,0
+583,Algarrobo,8452,4195,Magdalena,0
+311,Algeciras,15582,8984,Huila,0
+364,Almaguer,1603,19683,Cauca,0
+1105,Almeida,270,1429,Boyacá,0
+942,Alpujarra,1864,3110,Tolima,0
+976,Altamira,2959,1418,Huila,0
+187,Alto Baudó,9878,27828,Chocó,0
+544,Altos del Rosario,8367,5579,Bolívar,0
+747,Alvarado,3389,5427,Tolima,0
+253,Amagá,16973,12797,Antioquia,0
+346,Amalfi,12359,9894,Antioquia,0
+842,Ambalema,5172,1583,Tolima,0
+558,Anapoima,5801,7713,Cundinamarca,0
+835,Ancuyá,1614,5291,Nariño,0
+434,Andalucía,14687,3102,Valle del Cauca,0
+141,Andes,23016,23205,Antioquia,0
+729,Angelópolis,5384,3698,Antioquia,0
+631,Angostura,1798,9442,Antioquia,0
+600,Anolaima,3671,8539,Cundinamarca,0
+450,Anorí,6903,10401,Antioquia,0
+213,Anserma,21572,12097,Caldas,0
+397,Ansermanuevo,13226,6224,Valle del Cauca,0
+810,Anza,1268,6312,Antioquia,0
+419,Anzoátegui,2112,16526,Tolima,0
+35,Apartadó,164190,25135,Antioquia,0
+406,Apía,8334,10789,Risaralda,0
+791,Apulo,3151,4661,Cundinamarca,0
+509,Aquitania,6352,8708,Boyacá,0
+168,Aracataca,27958,11966,Magdalena,0
+628,Aranzazu,6586,4707,Caldas,0
+770,Aratoca,2447,5854,Santander,0
+71,Arauca,78913,12011,Arauca,1
+160,Arauquita,19106,22637,Arauca,0
+593,Arbeláez,5313,7017,Cundinamarca,0
+812,Arboleda,1129,6429,Nariño,0
+734,Arboledas,2504,6468,Norte de Santander,0
+163,Arboletes,17374,23835,Antioquia,0
+914,Arcabuco,1972,3271,Boyacá,0
+400,Arenal,5314,13988,Bolívar,0
+759,Argelia,2512,6066,Antioquia,0
+279,Argelia,4004,22972,Cauca,0
+853,Argelia,3112,3309,Valle del Cauca,0
+229,Ariguaní,20107,12181,Magdalena,0
+85,Arjona,59175,16096,Bolívar,0
+988,Armenia,1555,2555,Antioquia,0
+22,Armenia,291692,8020,Quindío,1
+611,Armero,8376,3463,Tolima,0
+681,Arroyohondo,6774,3264,Bolívar,0
+401,Astrea,10009,9246,Cesar,0
+339,Ataco,5262,17327,Tolima,0
+123,Ayapel,27679,25473,Córdoba,0
+781,Bagadó,2337,5679,Chocó,0
+713,Bahía Solano,4906,4445,Chocó,0
+446,Bajo Baudó,3245,14262,Chocó,0
+295,Balboa,7595,18209,Cauca,0
+859,Balboa,1850,4481,Risaralda,0
+106,Baranoa,49604,9398,Atlántico,0
+698,Baraya,5101,4553,Huila,0
+176,Barbacoas,16588,22120,Nariño,0
+125,Barbosa,23857,27762,Antioquia,0
+260,Barbosa,23315,5558,Santander,0
+819,Barichara,2617,4549,Santander,0
+997,Barranca de Upía,2921,1086,Meta,0
+33,Barrancabermeja,173380,18236,Santander,0
+194,Barrancas,18071,17322,La Guajira,0
+430,Barranco de Loba,6304,11791,Bolívar,0
+947,Barranco Minas,0,4903,Guainía,0
+4,Barranquilla,1224374,4247,Atlántico,1
+564,Becerril,10369,3019,Cesar,0
+650,Belalcázar,5056,5704,Caldas,0
+817,Belén,3731,3524,Boyacá,0
+805,Belén,2979,4633,Nariño,0
+620,Belén de los Andaquies,6593,5008,Caquetá,0
+265,Belén de Umbría,13151,14571,Risaralda,0
+14,Bello,467444,5940,Antioquia,0
+837,Belmira,1953,4870,Antioquia,0
+1082,Beltrán,441,1787,Cundinamarca,0
+1096,Berbeo,538,1396,Boyacá,0
+721,Betania,3854,5334,Antioquia,0
+1092,Betéitiva,385,1639,Boyacá,0
+443,Betulia,5869,11737,Antioquia,0
+931,Betulia,1111,3964,Santander,0
+1066,Bituima,445,2063,Cundinamarca,0
+833,Boavita,2930,3984,Boyacá,0
+828,Bochalema,2524,4496,Norte de Santander,0
+1,Bogotá,8063991,16743,Cundinamarca,1
+609,Bojacá,9509,2336,Cundinamarca,0
+676,Bojayá,5129,4977,Chocó,0
+149,Bolívar,5285,39415,Cauca,0
+601,Bolívar,1310,10894,Santander,0
+568,Bolívar,3407,9895,Valle del Cauca,0
+183,Bosconia,34471,3399,Cesar,0
+974,Boyacá,400,4014,Boyacá,0
+752,Briceño,2568,6124,Antioquia,0
+1063,Briceño,542,2026,Boyacá,0
+10,Bucaramanga,522224,6351,Santander,1
+966,Bucarasica,595,3975,Norte de Santander,0
+18,Buenaventura,381746,33894,Valle del Cauca,0
+885,Buenavista,838,4939,Boyacá,0
+353,Buenavista,8444,13471,Córdoba,0
+1054,Buenavista,1189,1618,Quindío,0
+700,Buenavista,8167,1451,Sucre,0
+222,Buenos Aires,2506,30328,Cauca,0
+305,Buesaco,6237,19125,Nariño,0
+57,Buga,98910,15897,Valle del Cauca,0
+368,Bugalagrande,11917,9210,Valle del Cauca,0
+847,Buriticá,1568,4998,Antioquia,0
+1116,Busbanzá,460,732,Boyacá,0
+973,Cabrera,1050,3428,Cundinamarca,0
+1077,Cabrera,651,1662,Santander,0
+993,Cabuyaro,1764,2284,Meta,0
+1062,Cacahual,0,2582,Guainía,0
+175,Cáceres,8949,29901,Antioquia,0
+689,Cachipay,3146,6665,Cundinamarca,0
+641,Cáchira,1715,9293,Norte de Santander,0
+1098,Cácota,547,1326,Norte de Santander,0
+772,Caicedo,1643,6632,Antioquia,0
+254,Caicedonia,24458,5268,Valle del Cauca,0
+602,Caimito,3385,8799,Sucre,0
+394,Cajamarca,9996,9645,Tolima,0
+184,Cajibío,1741,36107,Cauca,0
+105,Cajicá,37365,21833,Cundinamarca,0
+321,Calamar,13364,10245,Bolívar,0
+742,Calamar,5317,3559,Guaviare,0
+80,Calarcá,60343,18040,Quindío,0
+78,Caldas,63051,16603,Antioquia,0
+1017,Caldas,248,3348,Boyacá,0
+218,Caldono,1465,31923,Cauca,0
+3,Cali,2383392,36621,Valle del Cauca,1
+1094,California,1084,922,Santander,0
+490,Calima,9383,6411,Valle del Cauca,0
+438,Caloto,4613,13067,Cauca,0
+732,Campamento,2892,6143,Antioquia,0
+491,Campo de La Cruz,13826,1927,Atlántico,0
+200,Campoalegre,26143,8329,Huila,0
+1007,Campohermoso,967,2846,Boyacá,0
+348,Canalete,4271,17765,Córdoba,0
+464,Cañasgordas,6762,9989,Antioquia,0
+589,Candelaria,9619,2888,Atlántico,0
+75,Candelaria,23426,60694,Valle del Cauca,0
+711,Cantagallo,4485,4908,Bolívar,0
+776,Cantón de San Pablo,3590,4585,Chocó,0
+466,Caparrapí,2742,13968,Cundinamarca,0
+900,Capitanejo,3104,2439,Santander,0
+454,Cáqueza,7389,9740,Cundinamarca,0
+967,Caracolí,3117,1452,Antioquia,0
+910,Caramanta,3006,2334,Antioquia,0
+935,Carcasí,657,4364,Santander,0
+107,Carepa,45619,13048,Antioquia,0
+746,Carmen de Apicalá,6898,1937,Tolima,0
+720,Carmen de Carupa,2458,6733,Cundinamarca,0
+903,Carmen del Darién,1339,4153,Chocó,0
+1018,Carolina,2921,662,Antioquia,0
+5,Cartagena,983629,41457,Bolívar,1
+205,Cartagena del Chairá,12474,21434,Caquetá,0
+45,Cartago,131748,1904,Valle del Cauca,0
+1030,Carurú,686,2645,Vaupés,0
+845,Casabianca,1461,5200,Tolima,0
+685,Castilla la Nueva,5021,4878,Meta,0
+55,Caucasia,97386,20284,Antioquia,0
+1102,Cepitá,527,1319,Santander,0
+68,Cereté,53796,39243,Córdoba,0
+1012,Cerinza,1549,2165,Boyacá,0
+892,Cerrito,2592,3068,Santander,0
+790,Cerro de San Antonio,4379,3436,Magdalena,0
+675,Cértegui,6362,3747,Chocó,0
+545,Chachagüí,7217,6659,Nariño,0
+1001,Chaguaní,747,3232,Cundinamarca,0
+977,Chalán,2734,1633,Sucre,0
+1065,Chámeza,1660,851,Casanare,0
+140,Chaparral,26716,20532,Tolima,0
+665,Charalá,5791,4663,Santander,0
+1060,Charta,594,2043,Santander,0
+46,Chía,104214,28477,Cundinamarca,0
+77,Chigorodó,70264,9868,Antioquia,0
+1041,Chima,862,2200,Santander,0
+505,Chimá,3195,11970,Córdoba,0
+245,Chimichagua,11732,18853,Cesar,0
+470,Chinácota,11241,5272,Norte de Santander,0
+1021,Chinavita,1220,2279,Boyacá,0
+127,Chinchiná,45926,5150,Caldas,0
+132,Chinú,24355,24486,Córdoba,0
+765,Chipaque,2541,5859,Cundinamarca,0
+930,Chipatá,692,4388,Santander,0
+93,Chiquinquirá,57742,9406,Boyacá,0
+904,Chíquiza,93,5340,Boyacá,0
+398,Chiriguaná,14615,4760,Cesar,0
+985,Chiscas,895,3305,Boyacá,0
+709,Chita,2031,7376,Boyacá,0
+667,Chitagá,3668,6723,Norte de Santander,0
+897,Chitaraque,1129,4467,Boyacá,0
+861,Chivatá,2638,3677,Boyacá,0
+487,Chivolo,10814,5094,Magdalena,0
+1104,Chivor,493,1259,Boyacá,0
+655,Choachí,3623,7057,Cundinamarca,0
+292,Chocontá,13237,12658,Cundinamarca,0
+636,Cicuco,7581,3543,Bolívar,0
+62,Ciénaga,100171,4726,Magdalena,0
+94,Ciénaga de Oro,26795,39908,Córdoba,0
+959,Ciénega,1331,3363,Boyacá,0
+143,Cimitarra,18445,27456,Santander,0
+248,Circasia,22724,7417,Quindío,0
+733,Cisneros,7552,1446,Antioquia,0
+280,Ciudad Bolívar,16188,10769,Antioquia,0
+582,Clemencia,10653,2000,Bolívar,0
+516,Cocorná,3966,10998,Antioquia,0
+690,Coello,1892,7918,Tolima,0
+334,Cogua,7107,15679,Cundinamarca,0
+587,Colombia,2555,9975,Huila,0
+673,Colón,1615,8553,Nariño,0
+899,Colón,3309,2245,Putumayo,0
+884,Colosó,3032,2771,Sucre,0
+522,Cómbita,1132,13680,Boyacá,0
+1026,Concepción,1420,1955,Antioquia,0
+917,Concepción,2557,2673,Santander,0
+374,Concordia,8621,11944,Antioquia,0
+714,Concordia,4225,5113,Magdalena,0
+520,Condoto,10449,4376,Chocó,0
+1056,Confines,403,2294,Santander,0
+716,Consacá,1813,7483,Nariño,0
+830,Contadero,2358,4615,Nariño,0
+1022,Contratación,2673,778,Santander,0
+570,Convención,5085,8211,Norte de Santander,0
+90,Copacabana,62881,9008,Antioquia,0
+1016,Coper,765,2845,Boyacá,0
+591,Córdoba,3087,9302,Bolívar,0
+541,Córdoba,2353,11684,Nariño,0
+911,Córdoba,2996,2298,Quindío,0
+228,Corinto,13038,19258,Cauca,0
+809,Coromoro,1050,6534,Santander,0
+100,Corozal,52060,11186,Sucre,0
+1079,Corrales,1551,700,Boyacá,0
+304,Cota,14697,10735,Cundinamarca,0
+498,Cotorra,4046,11441,Córdoba,0
+1052,Covarachía,517,2308,Boyacá,0
+550,Coveñas,3888,9891,Sucre,0
+261,Coyaima,4816,23519,Tolima,0
+1032,Cravo Norte,2311,982,Arauca,0
+755,Cuaspud,2375,6270,Nariño,0
+843,Cubará,2013,4717,Boyacá,0
+876,Cubarral,3976,2054,Meta,0
+961,Cucaita,1923,2764,Boyacá,0
+813,Cucunubá,1407,6114,Cundinamarca,0
+6,Cúcuta,640462,22303,Norte de Santander,1
+804,Cucutilla,1219,6406,Norte de Santander,0
+1097,Cuítiva,218,1674,Boyacá,0
+428,Cumaral,12364,5786,Meta,0
+186,Cumaribo,7110,30630,Vichada,0
+180,Cumbal,8609,29740,Nariño,0
+493,Cumbitara,1837,13844,Nariño,0
+699,Cunday,2263,7371,Tolima,0
+614,Curillo,6203,5534,Caquetá,0
+608,Curití,3606,8336,Santander,0
+318,Curumaní,19156,4879,Cesar,0
+326,Dabeiba,8944,14336,Antioquia,0
+190,Dagua,8108,28416,Valle del Cauca,0
+202,Dibulla,5577,28611,La Guajira,0
+481,Distracción,5431,10709,La Guajira,0
+782,Dolores,3231,4784,Tolima,0
+337,Don Matías,14973,7753,Antioquia,0
+31,Dosquebradas,194380,8409,Risaralda,0
+58,Duitama,103552,9964,Boyacá,0
+1011,Duranía,1791,1944,Norte de Santander,0
+588,Ebéjico,2232,10278,Antioquia,0
+637,El Águila,2715,8400,Valle del Cauca,0
+672,El Atrato,3606,6589,Chocó,0
+129,El Bagre,26065,24177,Antioquia,0
+117,El Banco,35743,20058,Magdalena,0
+680,El Cairo,2808,7242,Valle del Cauca,0
+1081,El Calvario,804,1432,Meta,0
+549,El Carmen,2315,11475,Norte de Santander,0
+534,El Carmen de Atrato,6963,7329,Chocó,0
+83,El Carmen de Bolívar,61785,15164,Bolívar,0
+382,El Carmen de Chucurí,5924,14372,Santander,0
+139,El Carmen de Viboral,30887,16453,Antioquia,0
+863,El Castillo,2078,4223,Meta,0
+112,El Cerrito,35909,22116,Valle del Cauca,0
+181,El Charco,10461,27746,Nariño,0
+920,El Cocuy,2770,2427,Boyacá,0
+351,El Colegio,8394,13555,Cundinamarca,0
+284,El Copey,20681,5906,Cesar,0
+347,El Doncello,14480,7703,Caquetá,0
+1023,El Dorado,1480,1957,Meta,0
+763,El Dovio,5012,3395,Valle del Cauca,0
+948,El Encanto,0,4884,Amazonas,0
+983,El Espino,1314,2891,Boyacá,0
+1095,El Guacamayo,425,1542,Santander,0
+794,El Guamo,4380,3390,Bolívar,0
+745,El Molino,6086,2751,La Guajira,0
+331,El Paso,3992,19021,Cesar,0
+376,El Paujil,10788,9740,Caquetá,0
+489,El Peñol,9210,6638,Antioquia,0
+849,El Peñol,1042,5426,Nariño,0
+696,El Peñón,4008,5686,Bolívar,0
+953,El Peñón,445,4362,Cundinamarca,0
+928,El Peñón,897,4217,Santander,0
+465,El Piñón,6181,10561,Magdalena,0
+551,El Pital,5144,8632,Huila,0
+619,El Playón,5620,6026,Santander,0
+366,El Retén,16535,4693,Magdalena,0
+324,El Retorno,12075,11289,Guaviare,0
+657,El Roble,4442,6228,Sucre,0
+441,El Rosal,12661,4987,Cundinamarca,0
+679,El Rosario,3365,6698,Nariño,0
+274,El Santuario,23242,3934,Antioquia,0
+584,El Tablón de Gómez,901,11729,Nariño,0
+136,El Tambo,6919,40755,Cauca,0
+604,El Tambo,5309,6777,Nariño,0
+642,El Tarra,4499,6475,Norte de Santander,0
+329,El Zulia,13905,9202,Norte de Santander,0
+1000,Elías,1262,2726,Huila,0
+1068,Encino,463,2017,Santander,0
+1035,Enciso,641,2617,Santander,0
+678,Entrerrios,5276,4826,Antioquia,0
+28,Envigado,225266,7588,Antioquia,0
+84,Espinal,58494,17562,Tolima,0
+44,Facatativá,123931,13019,Cundinamarca,0
+719,Falan,1646,7565,Tolima,0
+647,Filadelfia,4173,6701,Caldas,0
+560,Filandia,7207,6260,Quindío,0
+881,Firavitoba,2125,3739,Boyacá,0
+257,Flandes,25163,4036,Tolima,0
+37,Florencia,157038,21411,Caquetá,1
+869,Florencia,1399,4747,Cauca,0
+972,Floresta,1811,2667,Boyacá,0
+865,Florián,1489,4804,Santander,0
+108,Florida,43323,15233,Valle del Cauca,0
+27,Floridablanca,257318,9351,Santander,0
+598,Fómeque,4755,7479,Cundinamarca,0
+211,Fonseca,21848,11937,La Guajira,0
+297,Fortul,13408,12337,Arauca,0
+803,Fosca,1959,5671,Cundinamarca,0
+497,Francisco Pizarro,7830,7667,Nariño,0
+362,Fredonia,8578,12848,Antioquia,0
+247,Fresno,14891,15274,Tolima,0
+478,Frontino,6860,9451,Antioquia,0
+559,Fuente de Oro,7473,5999,Meta,0
+113,Fundación,55842,1614,Magdalena,0
+851,Funes,2051,4401,Nariño,0
+81,Funza,73309,4837,Cundinamarca,0
+891,Fúquene,265,5404,Cundinamarca,0
+43,Fusagasugá,112616,27189,Cundinamarca,0
+889,Gachalá,2030,3671,Cundinamarca,0
+519,Gachancipá,8614,6217,Cundinamarca,0
+1061,Gachantivá,362,2255,Boyacá,0
+633,Gachetá,3740,7423,Cundinamarca,0
+1080,Galán,601,1643,Santander,0
+154,Galapa,39814,4059,Atlántico,0
+377,Galeras,12576,7939,Sucre,0
+995,Gama,858,3153,Cundinamarca,0
+462,Gamarra,9535,7321,Cesar,0
+933,Gámbita,388,4650,Santander,0
+955,Gámeza,1562,3214,Boyacá,0
+460,Garagoa,13753,3221,Boyacá,0
+70,Garzón,44344,47842,Huila,0
+795,Génova,3924,3844,Quindío,0
+207,Gigante,18338,15533,Huila,0
+365,Ginebra,10307,10934,Valle del Cauca,0
+996,Giraldo,1306,2703,Antioquia,0
+61,Girardot,102806,3477,Cundinamarca,0
+114,Girardota,34056,22695,Antioquia,0
+34,Girón,170872,19411,Santander,0
+576,Gómez Plata,6009,6955,Antioquia,0
+840,González,1313,5476,Cesar,0
+902,Gramalote,2719,2793,Norte de Santander,0
+687,Granada,3642,6224,Antioquia,0
+741,Granada,2085,6792,Cundinamarca,0
+98,Granada,54418,10277,Meta,0
+857,Guaca,2203,4142,Santander,0
+1108,Guacamayas,491,1166,Boyacá,0
+198,Guacarí,20864,13932,Valle del Cauca,0
+390,Guachené,5100,14759,Cauca,0
+626,Guachetá,3763,7609,Cundinamarca,0
+495,Guachucal,3003,12539,Nariño,0
+862,Guadalupe,2118,4188,Antioquia,0
+358,Guadalupe,5157,16500,Huila,0
+962,Guadalupe,1525,3157,Santander,0
+173,Guaduas,19873,19190,Cundinamarca,0
+610,Guaitarilla,4230,7615,Nariño,0
+886,Gualmatán,2239,3534,Nariño,0
+267,Guamal,7894,19614,Magdalena,0
+710,Guamal,6858,2545,Meta,0
+231,Guamo,16724,15389,Tolima,0
+252,Guapi,18199,11598,Cauca,0
+1089,Guapotá,535,1585,Santander,0
+442,Guaranda,6672,10974,Sucre,0
+133,Guarne,18032,30627,Antioquia,0
+514,Guasca,5316,9687,Cundinamarca,0
+916,Guatapé,4145,1086,Antioquia,0
+1059,Guataquí,1379,1270,Cundinamarca,0
+832,Guatavita,1983,4941,Cundinamarca,0
+702,Guateque,7186,2366,Boyacá,0
+504,Guática,3976,11285,Risaralda,0
+1015,Guavatá,726,2894,Santander,0
+1014,Guayabal de Siquima,868,2776,Cundinamarca,0
+943,Guayabetal,1516,3443,Cundinamarca,0
+938,Guayatá,1294,3719,Boyacá,0
+1008,Güepsa,1906,1898,Santander,0
+839,Güicán,1713,5088,Boyacá,0
+986,Gutiérrez,1144,3030,Cundinamarca,0
+652,Hacarí,1231,9491,Norte de Santander,0
+605,Hatillo de Loba,3513,8530,Bolívar,0
+1075,Hato,824,1516,Santander,0
+592,Hato Corozal,5447,6917,Casanare,0
+294,Hatonuevo,14543,11289,La Guajira,0
+883,Heliconia,3047,2790,Antioquia,0
+998,Herrán,1026,2980,Norte de Santander,0
+783,Herveo,2044,5964,Tolima,0
+949,Hispania,3238,1636,Antioquia,0
+831,Hobo,5372,1591,Huila,0
+312,Honda,23800,747,Tolima,0
+8,Ibagué,533361,30716,Tolima,1
+645,Icononzo,3439,7455,Tolima,0
+750,Iles,1961,6825,Nariño,0
+870,Imués,576,5555,Nariño,0
+387,Inírida,12829,7154,Guainía,1
+239,Inzá,2282,28970,Cauca,0
+42,Ipiales,105875,39198,Nariño,0
+577,Iquira,2392,10567,Huila,0
+269,Isnos,5962,21523,Huila,0
+301,Istmina,20281,5238,Chocó,0
+26,Itaguí,250967,22977,Antioquia,0
+372,Ituango,5820,14808,Antioquia,0
+1073,Iza,1037,1336,Boyacá,0
+433,Jambaló,1230,16709,Cauca,0
+50,Jamundí,84976,39610,Valle del Cauca,0
+556,Jardín,7212,6461,Antioquia,0
+801,Jenesano,2006,5653,Boyacá,0
+607,Jericó,8517,3499,Antioquia,0
+1002,Jericó,641,3315,Boyacá,0
+1057,Jerusalén,585,2098,Cundinamarca,0
+1040,Jesús María,861,2246,Santander,0
+1118,Jordán,55,1044,Santander,0
+457,Juan de Acosta,11573,5460,Atlántico,0
+756,Junín,1010,7634,Cundinamarca,0
+1031,Juradó,1613,1682,Chocó,0
+499,La Apartada,13288,2194,Córdoba,0
+536,La Argentina,4955,9316,Huila,0
+757,La Belleza,1923,6669,Santander,0
+263,La Calera,12051,15827,Cundinamarca,0
+1067,La Capilla,964,1535,Boyacá,0
+120,La Ceja,47101,6892,Antioquia,0
+758,La Celia,3436,5148,Risaralda,0
+1003,La Chorrera,0,3933,Amazonas,0
+427,La Cruz,6633,11616,Nariño,0
+622,La Cumbre,2517,9045,Valle del Cauca,0
+82,La Dorada,69764,7971,Caldas,0
+603,La Esperanza,1742,10381,Norte de Santander,0
+99,La Estrella,37000,27323,Antioquia,0
+707,La Florida,1813,7641,Nariño,0
+580,La Gloria,6256,6504,Cesar,0
+1122,La Guadalupe,0,374,Guainía,0
+345,La Jagua de Ibirico,19086,3225,Cesar,0
+1036,La Jagua del Pilar,2307,946,La Guajira,0
+888,La Llanada,1828,3898,Nariño,0
+210,La Macarena,4522,29290,Meta,0
+906,La Merced,2227,3166,Caldas,0
+235,La Mesa,17842,13981,Cundinamarca,0
+320,La Montañita,4978,18811,Caquetá,0
+648,La Palma,4104,6720,Cundinamarca,0
+332,La Paz,14995,7892,Cesar,0
+929,La Paz,834,4270,Santander,0
+927,La Pedrera,0,5125,Amazonas,0
+827,La Peña,994,6041,Cundinamarca,0
+848,La Pintada,5743,764,Antioquia,0
+97,La Plata,27146,37783,Huila,0
+760,La Playa,640,7913,Norte de Santander,0
+488,La Primavera,8905,6981,Vichada,0
+1111,La Salina,621,813,Casanare,0
+660,La Sierra,1505,9121,Cauca,0
+157,La Tebaida,40480,2655,Quindío,0
+575,La Tola,9781,3331,Nariño,0
+403,La Unión,10843,8386,Antioquia,0
+293,La Unión,10739,15147,Nariño,0
+630,La Unión,6109,5153,Sucre,0
+179,La Unión,30194,8157,Valle del Cauca,0
+469,La Uribe,3966,12573,Meta,0
+1072,La Uvita,997,1438,Boyacá,0
+142,La Vega,3291,42789,Cauca,0
+532,La Vega,5328,8998,Cundinamarca,0
+1117,La Victoria,0,1115,Amazonas,0
+1106,La Victoria,869,805,Boyacá,0
+573,La Victoria,9435,3732,Valle del Cauca,0
+230,La Virginia,31583,531,Risaralda,0
+880,Labateca,1442,4434,Norte de Santander,0
+932,Labranzagrande,1164,3904,Boyacá,0
+502,Landázuri,3705,11690,Santander,0
+170,Lebrija,19217,20181,Santander,0
+539,Leiva,4500,9564,Nariño,0
+712,Lejanías,4426,4948,Meta,0
+669,Lenguazaque,2295,8010,Cundinamarca,0
+449,Lérida,14188,3207,Tolima,0
+161,Leticia,26420,15219,Amazonas,1
+167,Líbano,25083,15183,Tolima,0
+703,Liborina,1755,7791,Antioquia,0
+686,Linares,2421,7458,Nariño,0
+494,Litoral de San Juan,1376,14243,Chocó,0
+629,Lloró,3456,7828,Chocó,0
+379,López,5826,14620,Cauca,0
+54,Lorica,56275,63563,Córdoba,0
+391,Los Andes,7864,11908,Nariño,0
+313,Los Córdobas,4763,19708,Córdoba,0
+402,Los Palmitos,9032,10213,Sucre,0
+79,Los Patios,76140,2281,Norte de Santander,0
+595,Los Santos,1927,10372,Santander,0
+1029,Lourdes,1221,2141,Norte de Santander,0
+273,Luruaco,13670,13560,Atlántico,0
+952,Macanal,1119,3708,Boyacá,0
+1076,Macaravita,289,2047,Santander,0
+841,Maceo,2843,3932,Antioquia,0
+866,Machetá,1497,4775,Cundinamarca,0
+76,Madrid,70203,10419,Cundinamarca,0
+52,Magangué,86210,37696,Bolívar,0
+327,Magüí Payán,4769,18367,Nariño,0
+290,Mahates,9986,16140,Bolívar,0
+39,Maicao,111150,50968,La Guajira,0
+217,Majagual,11055,22383,Sucre,0
+425,Málaga,15389,2963,Santander,0
+49,Malambo,118070,7175,Atlántico,0
+806,Mallama,1209,6399,Nariño,0
+486,Manatí,14378,1535,Atlántico,0
+518,Manaure,9566,5289,Cesar,0
+60,Manaure,48602,63501,La Guajira,0
+635,Maní,7534,3596,Casanare,0
+19,Manizales,371345,27529,Caldas,1
+958,Manta,1296,3436,Cundinamarca,0
+328,Manzanares,9929,13183,Caldas,0
+439,Mapiripán,1389,16272,Meta,0
+1053,Mapiripana,0,2816,Guainía,0
+682,Margarita,1760,8206,Bolívar,0
+134,María La Baja,21519,26920,Bolívar,0
+119,Marinilla,43570,11430,Antioquia,0
+814,Maripí,972,6452,Boyacá,0
+219,Mariquita,24279,9050,Tolima,0
+722,Marmato,1063,8099,Caldas,0
+515,Marquetalia,6475,8525,Caldas,0
+322,Marsella,13535,9965,Risaralda,0
+1025,Marulanda,1286,2110,Caldas,0
+915,Matanza,1090,4148,Santander,0
+2,Medellín,2479990,28462,Antioquia,1
+674,Medina,3906,6228,Cundinamarca,0
+246,Medio Atrato,1133,29329,Chocó,0
+552,Medio Baudó,637,13113,Chocó,0
+467,Medio San Juan,5978,10706,Chocó,0
+191,Melgar,30070,6269,Tolima,0
+429,Mercaderes,5149,12956,Cauca,0
+627,Mesetas,3743,7611,Meta,0
+691,Miraflores,5710,4069,Boyacá,0
+523,Miraflores,3563,11207,Guaviare,0
+166,Miranda,29174,11281,Cauca,0
+1109,Mirití-Paraná,0,1525,Amazonas,0
+479,Mistrató,4287,12024,Risaralda,0
+234,Mitú,16302,15559,Vaupés,1
+159,Mocoa,35066,7816,Putumayo,1
+646,Mogotes,3861,7024,Santander,0
+926,Molagavita,769,4361,Santander,0
+517,Momil,9568,5394,Córdoba,0
+150,Mompox,26137,18323,Bolívar,0
+963,Mongua,1614,3043,Boyacá,0
+941,Monguí,2816,2169,Boyacá,0
+363,Moniquirá,10590,10755,Boyacá,0
+264,Moñitos,6958,20901,Córdoba,0
+874,Montebello,2011,4066,Antioquia,0
+356,Montecristo,11408,10334,Bolívar,0
+74,Montelíbano,67224,17788,Córdoba,0
+162,Montenegro,33955,7479,Quindío,0
+16,Montería,352388,101644,Córdoba,1
+513,Monterrey,12697,2323,Casanare,0
+360,Morales,5944,15557,Bolívar,0
+289,Morales,1562,24605,Cauca,0
+1006,Morelia,1923,1913,Caquetá,0
+1114,Morichal Nuevo,0,1247,Guainía,0
+526,Morroa,6710,7873,Sucre,0
+73,Mosquera,83520,3434,Cundinamarca,0
+463,Mosquera,5963,10806,Nariño,0
+774,Motavita,905,7290,Boyacá,0
+936,Murillo,1486,3532,Tolima,0
+960,Murindó,959,3733,Antioquia,0
+369,Mutatá,5654,15423,Antioquia,0
+1010,Mutiscua,531,3216,Norte de Santander,0
+737,Muzo,5335,3579,Boyacá,0
+447,Nariño,2505,14981,Antioquia,0
+1084,Nariño,1460,758,Cundinamarca,0
+945,Nariño,3739,1195,Nariño,0
+854,Nátaga,2214,4173,Huila,0
+341,Natagaima,15124,7392,Tolima,0
+272,Nechí,14510,12728,Antioquia,0
+96,Necoclí,16274,49389,Antioquia,0
+243,Neira,16434,14306,Caldas,0
+20,Neiva,326263,19648,Huila,1
+554,Nemocón,5751,7956,Cundinamarca,0
+414,Nilo,4848,14008,Cundinamarca,0
+838,Nimaima,2948,3862,Cundinamarca,0
+475,Nobsa,6474,9879,Boyacá,0
+780,Nocaima,1882,6173,Cundinamarca,0
+860,Norcasia,4293,2029,Caldas,0
+921,Norosí,2116,3061,Bolívar,0
+784,Nóvita,3226,4730,Chocó,0
+383,Nueva Granada,8387,11826,Magdalena,0
+846,Nuevo Colón,1321,5281,Boyacá,0
+743,Nunchía,2139,6728,Casanare,0
+753,Nuquí,3809,4859,Chocó,0
+510,Obando,11212,3847,Valle del Cauca,0
+956,Ocamonte,670,4078,Santander,0
+65,Ocaña,90620,9121,Norte de Santander,0
+612,Oiba,5630,6185,Santander,0
+1051,Oicatá,304,2527,Boyacá,0
+1033,Olaya,264,3014,Antioquia,0
+236,Olaya Herrera,9924,21669,Nariño,0
+939,Onzaga,1233,3770,Santander,0
+548,Oporapa,3981,9845,Huila,0
+118,Orito,25170,29848,Putumayo,0
+766,Orocué,5286,3062,Casanare,0
+225,Ortega,8122,24309,Tolima,0
+751,Ospina,2484,6273,Nariño,0
+656,Otanche,4186,6485,Boyacá,0
+370,Ovejas,11985,9045,Sucre,0
+1069,Pachavita,389,2064,Boyacá,0
+270,Pacho,15569,11819,Cundinamarca,0
+882,Pacoa,0,5843,Vaupés,0
+618,Pácora,5562,6111,Caldas,0
+789,Padilla,4114,3723,Cauca,0
+1049,Páez,1169,1698,Boyacá,0
+193,Páez,2712,32749,Cauca,0
+896,Paicol,2466,3140,Huila,0
+452,Pailitas,13403,3865,Cesar,0
+975,Paime,460,3947,Cundinamarca,0
+242,Paipa,19272,11749,Boyacá,0
+1107,Pajarito,706,964,Boyacá,0
+220,Palermo,16070,17178,Huila,0
+436,Palestina,6798,10919,Caldas,0
+615,Palestina,2113,9579,Huila,0
+1027,Palmar,1001,2373,Santander,0
+302,Palmar de Varela,24849,636,Atlántico,0
+1083,Palmas del Socorro,687,1540,Santander,0
+21,Palmira,247541,61130,Valle del Cauca,0
+543,Palmito,5450,8503,Sucre,0
+723,Palocabildo,2849,6311,Tolima,0
+111,Pamplona,55366,2834,Norte de Santander,0
+944,Pamplonita,906,4039,Norte de Santander,0
+1037,Pana Pana,0,3253,Guainía,0
+890,Pandi,1070,4606,Cundinamarca,0
+1110,Panqueba,600,852,Boyacá,0
+1121,Papunaua,0,841,Vaupés,0
+987,Páramo,1412,2746,Santander,0
+796,Paratebueno,2415,5339,Cundinamarca,0
+596,Pasca,2867,9404,Cundinamarca,0
+17,Pasto,376456,74359,Nariño,1
+189,Patía,13629,22915,Cauca,0
+649,Pauna,2628,8169,Boyacá,0
+1064,Paya,586,1951,Boyacá,0
+285,Paz de Ariporo,19236,7298,Casanare,0
+964,Paz de Río,2906,1712,Boyacá,0
+779,Pedraza,2494,5585,Magdalena,0
+432,Pelaya,12150,5872,Cesar,0
+287,Pensilvania,8446,17897,Caldas,0
+639,Peque,2086,8978,Antioquia,0
+13,Pereira,401241,73115,Risaralda,1
+788,Pesca,1984,5878,Boyacá,0
+815,Piamonte,634,6745,Cauca,0
+40,Piedecuesta,128223,27944,Santander,0
+894,Piedras,1781,3859,Tolima,0
+156,Piendamó,14944,28770,Cauca,0
+873,Pijao,3677,2420,Quindío,0
+485,Pijiño del Carmen,8066,7893,Magdalena,0
+912,Pinchote,1555,3730,Santander,0
+307,Pinillos,2715,22471,Bolívar,0
+925,Piojó,2457,2685,Atlántico,0
+1113,Pisba,393,930,Boyacá,0
+47,Pitalito,77504,53189,Huila,0
+212,Pivijay,19217,14536,Magdalena,0
+250,Planadas,7645,22329,Tolima,0
+92,Planeta Rica,43258,25051,Córdoba,0
+104,Plato,46384,13430,Magdalena,0
+453,Policarpa,3057,14102,Nariño,0
+501,Polonuevo,12656,2756,Atlántico,0
+340,Ponedera,11407,11170,Atlántico,0
+24,Popayán,252570,29991,Cauca,1
+786,Pore,3980,3937,Casanare,0
+606,Potosí,2151,9883,Nariño,0
+115,Pradera,49382,7156,Valle del Cauca,0
+797,Prado,3248,4453,Tolima,0
+562,Providencia,5539,7874,Nariño,0
+924,Providencia,2284,2871,San Andrés y Providencia,0
+333,Pueblo Bello,5577,17260,Cesar,0
+171,Pueblo Nuevo,15384,23950,Córdoba,0
+561,Pueblo Rico,3401,10050,Risaralda,0
+241,Pueblo Viejo,12243,18825,Magdalena,0
+834,Pueblorrico,3558,3355,Antioquia,0
+597,Puente Nacional,5635,6635,Santander,0
+769,Puerres,3054,5265,Nariño,0
+1093,Puerto Alegría,0,2023,Amazonas,0
+1112,Puerto Arica,0,1340,Amazonas,0
+102,Puerto Asís,34061,27422,Putumayo,0
+135,Puerto Berrío,42909,4808,Antioquia,0
+116,Puerto Boyacá,38324,17772,Boyacá,0
+525,Puerto Caicedo,5270,9354,Putumayo,0
+484,Puerto Carreño,13480,2520,Vichada,1
+278,Puerto Colombia,22519,4476,Atlántico,0
+950,Puerto Colombia,0,4833,Guainía,0
+361,Puerto Concordia,10597,10845,Meta,0
+249,Puerto Escondido,5029,24990,Córdoba,0
+417,Puerto Gaitán,7812,10866,Meta,0
+319,Puerto Guzmán,4801,19034,Putumayo,0
+500,Puerto Leguízamo,9250,6167,Putumayo,0
+128,Puerto Libertador,20964,29791,Córdoba,0
+695,Puerto Lleras,2961,6747,Meta,0
+208,Puerto López,22469,11385,Meta,0
+613,Puerto Milán,1857,9917,Caquetá,0
+415,Puerto Nare,8134,10712,Antioquia,0
+771,Puerto Nariño,2187,6092,Amazonas,0
+802,Puerto Parra,3723,3932,Santander,0
+216,Puerto Rico,14325,19122,Caquetá,0
+416,Puerto Rico,5164,13537,Meta,0
+1005,Puerto Rondón,2867,970,Arauca,0
+408,Puerto Salgar,14348,4661,Cundinamarca,0
+1046,Puerto Santander,0,2991,Amazonas,0
+666,Puerto Santander,9677,744,Norte de Santander,0
+144,Puerto Tejada,40460,5380,Cauca,0
+378,Puerto Triunfo,6316,14167,Antioquia,0
+238,Puerto Wilches,16907,14603,Santander,0
+1045,Pulí,668,2339,Cundinamarca,0
+396,Pupiales,6039,13441,Nariño,0
+503,Puracé,1703,13566,Cauca,0
+256,Purificación,17847,11565,Tolima,0
+507,Purísima,6447,8667,Córdoba,0
+957,Quebradanegra,388,4357,Cundinamarca,0
+818,Quetame,1629,5564,Cundinamarca,0
+56,Quibdó,108622,7465,Chocó,1
+197,Quimbaya,29287,5752,Quindío,0
+209,Quinchía,8233,25583,Risaralda,0
+793,Quípama,1596,6180,Boyacá,0
+777,Quipile,675,7493,Cundinamarca,0
+836,Ragonvalia,2904,3993,Norte de Santander,0
+684,Ramiriquí,5026,4900,Boyacá,0
+555,Ráquira,3509,10173,Boyacá,0
+982,Recetor,1555,2667,Casanare,0
+654,Regidor,4559,6123,Bolívar,0
+251,Remedios,10929,18969,Antioquia,0
+778,Remolino,5569,2526,Magdalena,0
+286,Repelón,17966,8471,Atlántico,0
+659,Restrepo,7465,3163,Meta,0
+480,Restrepo,9135,7137,Valle del Cauca,0
+399,Retiro,10153,9157,Antioquia,0
+701,Ricaurte,4470,5109,Cundinamarca,0
+407,Ricaurte,2553,16526,Nariño,0
+542,Río de Oro,6150,7844,Cesar,0
+688,Río Iró,1623,8240,Chocó,0
+731,Río Quito,2623,6439,Chocó,0
+424,Río Viejo,9702,8669,Bolívar,0
+314,Rioblanco,4687,19772,Tolima,0
+529,Riofrío,4835,9654,Valle del Cauca,0
+25,Riohacha,236927,40986,La Guajira,1
+51,Rionegro,81591,42628,Antioquia,0
+283,Rionegro,6800,20096,Santander,0
+101,Riosucio,19770,43275,Caldas,0
+259,Riosucio,8526,20351,Chocó,0
+706,Risaralda,4614,4857,Caldas,0
+410,Rivera,10827,8165,Huila,0
+325,Roberto Payán,1265,22022,Nariño,0
+224,Roldanillo,24781,7816,Valle del Cauca,0
+858,Roncesvalles,1458,4886,Tolima,0
+1055,Rondón,546,2250,Boyacá,0
+565,Rosas,1731,11655,Cauca,0
+375,Rovira,9922,10620,Tolima,0
+422,Sabana de Torres,12263,6230,Santander,0
+226,Sabanagrande,31301,1031,Atlántico,0
+775,Sabanalarga,2933,5258,Antioquia,0
+64,Sabanalarga,82757,17571,Atlántico,0
+1048,Sabanalarga,1495,1448,Casanare,0
+456,Sabanas de San Ángel,4238,12850,Magdalena,0
+122,Sabaneta,42519,10721,Antioquia,0
+594,Saboyá,789,11520,Boyacá,0
+1091,Sácama,1449,585,Casanare,0
+1009,Sáchica,1889,1891,Boyacá,0
+72,Sahagún,48608,41666,Córdoba,0
+621,Saladoblanco,2826,8754,Huila,0
+477,Salamina,9891,6425,Caldas,0
+829,Salamina,4395,2590,Magdalena,0
+736,Salazar,3757,5185,Norte de Santander,0
+531,Saldaña,8639,5746,Tolima,0
+823,Salento,3801,3305,Quindío,0
+444,Salgar,8891,8648,Antioquia,0
+384,Samacá,5997,14119,Boyacá,0
+296,Samaná,5147,20637,Caldas,0
+131,Samaniego,18811,30642,Nariño,0
+182,Sampués,21136,16931,Sucre,0
+221,San Agustín,11494,21707,Huila,0
+308,San Alberto,18674,6447,Cesar,0
+88,San Andrés,53691,18894,San Andrés y Providencia,1
+762,San Andrés,2604,5828,Santander,0
+871,San Andrés de Cuerquia,2527,3599,Antioquia,0
+153,San Andrés Sotavento,12953,30921,Córdoba,0
+233,San Antero,17846,14096,Córdoba,0
+533,San Antonio,4206,10104,Tolima,0
+574,San Antonio del Tequendama,1030,12118,Cundinamarca,0
+999,San Benito,470,3525,Santander,0
+298,San Benito Abad,5308,20415,Sucre,0
+653,San Bernardo,4159,6546,Cundinamarca,0
+392,San Bernardo,4285,15479,Nariño,0
+195,San Bernardo del Viento,9297,25863,Córdoba,0
+557,San Calixto,2185,11446,Norte de Santander,0
+482,San Carlos,6026,10060,Antioquia,0
+268,San Carlos,5785,21701,Córdoba,0
+683,San Carlos de Guaroa,4784,5154,Meta,0
+908,San Cayetano,739,4609,Cundinamarca,0
+901,San Cayetano,2143,3394,Norte de Santander,0
+844,San Cristóbal,5638,1056,Bolívar,0
+567,San Diego,7478,5844,Cesar,0
+1099,San Eduardo,839,1028,Boyacá,0
+474,San Estanislao,12074,4295,Bolívar,0
+1087,San Felipe,0,2132,Guainía,0
+546,San Fernando,2956,10890,Bolívar,0
+918,San Francisco,2454,2768,Antioquia,0
+694,San Francisco,3440,6292,Cundinamarca,0
+821,San Francisco,4194,2926,Putumayo,0
+146,San Gil,40561,5044,Santander,0
+359,San Jacinto,20877,693,Bolívar,0
+553,San Jacinto del Cauca,3893,9830,Bolívar,0
+581,San Jerónimo,4135,8589,Antioquia,0
+1070,San Joaquín,656,1789,Santander,0
+807,San José,1850,5745,Caldas,0
+1028,San José de la Montaña,2210,1158,Antioquia,0
+979,San José de Miranda,880,3423,Santander,0
+923,San José de Pare,1074,4084,Boyacá,0
+632,San José de Uré,5641,5531,Córdoba,0
+512,San José del Fragua,6266,8763,Caquetá,0
+95,San José del Guaviare,46736,19943,Guaviare,1
+954,San José del Palmar,1131,3672,Chocó,0
+748,San Juan de Arama,3918,4882,Meta,0
+586,San Juan de Betulia,6529,6028,Sucre,0
+697,San Juan de Río Seco,2925,6743,Cundinamarca,0
+300,San Juan de Urabá,8219,17433,Antioquia,0
+185,San Juan del Cesar,24887,12940,La Guajira,0
+214,San Juan Nepomuceno,26690,6933,Bolívar,0
+1085,San Juanito,820,1371,Meta,0
+386,San Lorenzo,2829,17173,Nariño,0
+643,San Luis,4695,6243,Antioquia,0
+405,San Luis,3705,15448,Tolima,0
+940,San Luis de Gaceno,1771,3225,Boyacá,0
+792,San Luis de Palenque,2320,5490,Casanare,0
+109,San Marcos,34502,24000,Sucre,0
+418,San Martín,9120,9530,Cesar,0
+309,San Martín,22295,2697,Meta,0
+437,San Martín de Loba,7577,10112,Bolívar,0
+1019,San Mateo,1478,2104,Boyacá,0
+275,San Miguel,5937,21179,Putumayo,0
+1074,San Miguel,386,1963,Santander,0
+968,San Miguel de Sema,488,4060,Boyacá,0
+126,San Onofre,26876,24208,Sucre,0
+203,San Pablo,30233,3800,Bolívar,0
+448,San Pablo,4034,13369,Nariño,0
+664,San Pablo de Borbur,1301,9177,Boyacá,0
+483,San Pedro,11144,4861,Sucre,0
+423,San Pedro,7372,11011,Valle del Cauca,0
+808,San Pedro de Cartago,717,6871,Nariño,0
+277,San Pedro de los Milagros,14346,12713,Antioquia,0
+237,San Pedro de Urabá,14327,17212,Antioquia,0
+151,San Pelayo,8330,35738,Córdoba,0
+578,San Rafael,6256,6664,Antioquia,0
+468,San Roque,6324,10339,Antioquia,0
+540,San Sebastián,1281,12773,Cauca,0
+445,San Sebastián de Buenavista,5813,11697,Magdalena,0
+461,San Vicente,7398,9569,Antioquia,0
+199,San Vicente de Chucurí,13727,21032,Santander,0
+91,San Vicente del Caguán,44375,26078,Caquetá,0
+726,San Zenón,1959,7171,Magdalena,0
+299,Sandoná,11962,13747,Nariño,0
+288,Santa Ana,13150,13107,Magdalena,0
+352,Santa Bárbara,10298,11619,Antioquia,0
+524,Santa Bárbara,2963,11725,Nariño,0
+1088,Santa Bárbara,405,1717,Santander,0
+579,Santa Bárbara de Pinto,7466,5307,Magdalena,0
+569,Santa Catalina,4798,8500,Bolívar,0
+980,Santa Helena del Opón,613,3675,Santander,0
+856,Santa Isabel,2284,4073,Tolima,0
+623,Santa Lucía,11002,492,Atlántico,0
+1004,Santa María,2279,1639,Boyacá,0
+624,Santa María,3247,8206,Huila,0
+12,Santa Marta,482721,16536,Magdalena,1
+330,Santa Rosa,14850,8255,Bolívar,0
+662,Santa Rosa,1929,8658,Cauca,0
+87,Santa Rosa de Cabal,60917,11718,Risaralda,0
+192,Santa Rosa de Osos,19012,17091,Antioquia,0
+563,Santa Rosa de Viterbo,7156,6251,Boyacá,0
+158,Santa Rosa del Sur,23543,19417,Bolívar,0
+990,Santa Rosalía,2687,1389,Vichada,0
+1058,Santa Sofía,712,1946,Boyacá,0
+258,Santacruz,6800,22265,Nariño,0
+310,Santafé de Antioquia,15799,8925,Antioquia,0
+800,Santana,2353,5318,Boyacá,0
+66,Santander de Quilichao,55729,40789,Cauca,0
+1050,Santiago,1381,1463,Norte de Santander,0
+663,Santiago,4364,6181,Putumayo,0
+670,Santo Domingo,1964,8328,Antioquia,0
+303,Santo Tomás,24570,883,Atlántico,0
+492,Santuario,7297,8453,Risaralda,0
+867,Sapuyes,1405,4832,Nariño,0
+137,Saravena,32371,15223,Arauca,0
+338,Sardinata,9224,13396,Norte de Santander,0
+651,Sasaima,2449,8293,Cundinamarca,0
+1078,Sativanorte,523,1783,Boyacá,0
+1119,Sativasur,263,831,Boyacá,0
+164,Segovia,32315,8373,Antioquia,0
+530,Sesquilé,3593,10817,Cundinamarca,0
+148,Sevilla,34421,10455,Valle del Cauca,0
+735,Siachoque,1586,7381,Boyacá,0
+172,Sibaté,26392,12725,Cundinamarca,0
+537,Sibundoy,10368,3855,Putumayo,0
+978,Silos,988,3378,Norte de Santander,0
+349,Silvania,6304,15716,Cundinamarca,0
+227,Silvia,4315,28000,Cauca,0
+798,Simacota,2491,5197,Santander,0
+571,Simijaca,7438,5857,Cundinamarca,0
+373,Simití,10216,10360,Bolívar,0
+204,Sincé,25888,8128,Sucre,0
+23,Sincelejo,265350,17483,Sucre,1
+989,Sipí,352,3745,Chocó,0
+232,Sitionuevo,15783,16306,Magdalena,0
+9,Soacha,527644,6074,Cundinamarca,0
+825,Soatá,5237,1832,Boyacá,0
+824,Socha,3849,3243,Boyacá,0
+244,Socorro,25295,5422,Santander,0
+785,Socotá,1041,6893,Boyacá,0
+59,Sogamoso,98411,13876,Boyacá,0
+316,Solano,1948,22183,Caquetá,0
+7,Soledad,648373,576,Atlántico,0
+724,Solita,4104,5039,Caquetá,0
+1020,Somondoco,795,2760,Boyacá,0
+196,Sonsón,15051,20005,Antioquia,0
+521,Sopetrán,7021,7800,Antioquia,0
+761,Soplaviento,8285,182,Bolívar,0
+271,Sopó,17564,9775,Cundinamarca,0
+1044,Sora,501,2526,Boyacá,0
+913,Soracá,750,4529,Boyacá,0
+811,Sotaquirá,714,6864,Boyacá,0
+455,Sotará,351,16773,Cauca,0
+671,Suaita,1837,8375,Santander,0
+754,Suan,8353,311,Atlántico,0
+420,Suárez,3138,15472,Cauca,0
+969,Suárez,2173,2374,Tolima,0
+395,Suaza,4467,15019,Huila,0
+472,Subachoque,6177,10258,Cundinamarca,0
+740,Sucre,1471,7420,Cauca,0
+767,Sucre,402,7922,Santander,0
+344,Sucre,8032,14371,Sucre,0
+440,Suesca,8757,8903,Cundinamarca,0
+934,Supatá,1516,3517,Cundinamarca,0
+282,Supía,13074,13836,Caldas,0
+1034,Suratá,689,2575,Santander,0
+585,Susa,6467,6125,Cundinamarca,0
+1043,Susacón,968,2059,Boyacá,0
+879,Sutamarchán,1355,4535,Boyacá,0
+893,Sutatausa,1777,3866,Cundinamarca,0
+994,Sutatenza,771,3262,Boyacá,0
+266,Tabio,13511,14191,Cundinamarca,0
+412,Tadó,12343,6636,Chocó,0
+625,Talaigua Nuevo,5397,5990,Bolívar,0
+547,Tamalameque,5625,8213,Cesar,0
+826,Támara,2336,4700,Casanare,0
+121,Tame,20292,33447,Arauca,0
+527,Támesis,6494,8065,Antioquia,0
+371,Taminango,5133,15769,Nariño,0
+704,Tangua,2337,7169,Nariño,0
+1120,Taraira,144,824,Vaupés,0
+981,Tarapacá,0,4234,Amazonas,0
+155,Tarazá,27758,16098,Antioquia,0
+435,Tarqui,5098,12665,Huila,0
+787,Tarso,3924,3939,Antioquia,0
+864,Tasco,1909,4387,Boyacá,0
+336,Tauramena,15233,7493,Casanare,0
+738,Tausa,1079,7826,Cundinamarca,0
+535,Tello,6716,7558,Huila,0
+728,Tena,849,8234,Cundinamarca,0
+599,Tenerife,6208,6022,Magdalena,0
+388,Tenjo,9519,10444,Cundinamarca,0
+992,Tenza,1230,2822,Boyacá,0
+350,Teorama,2754,19224,Norte de Santander,0
+749,Teruel,4402,4385,Huila,0
+717,Tesalia,5427,3853,Huila,0
+951,Tibacuy,524,4307,Cundinamarca,0
+725,Tibaná,1603,7533,Boyacá,0
+538,Tibasosa,4811,9385,Boyacá,0
+1047,Tibirita,493,2453,Cundinamarca,0
+188,Tibú,13763,22945,Norte de Santander,0
+63,Tierralta,46375,58442,Córdoba,0
+381,Timaná,7377,12973,Huila,0
+201,Timbío,13492,20830,Cauca,0
+357,Timbiquí,4310,17428,Cauca,0
+1042,Tinjacá,457,2582,Boyacá,0
+1039,Tipacoque,856,2304,Boyacá,0
+342,Tiquisio,6234,16240,Bolívar,0
+528,Titiribí,8186,6308,Antioquia,0
+677,Toca,3638,6468,Boyacá,0
+421,Tocaima,10999,7502,Cundinamarca,0
+223,Tocancipá,14032,18789,Cundinamarca,0
+946,Togüí,762,4169,Boyacá,0
+850,Toledo,1023,5443,Antioquia,0
+451,Toledo,4489,12795,Norte de Santander,0
+206,Tolú,27842,6029,Sucre,0
+413,Tolú Viejo,5453,13442,Sucre,0
+820,Tona,563,6566,Santander,0
+1013,Tópaga,1414,2280,Boyacá,0
+970,Topaipí,816,3697,Cundinamarca,0
+255,Toribío,1761,27735,Cauca,0
+471,Toro,9298,7160,Valle del Cauca,0
+909,Tota,559,4789,Boyacá,0
+380,Totoró,1927,18492,Cauca,0
+508,Trinidad,8634,6466,Casanare,0
+431,Trujillo,8216,9825,Valle del Cauca,0
+640,Tubará,6541,4483,Atlántico,0
+177,Tuchín,6250,32358,Córdoba,0
+29,Tuluá,187121,29483,Valle del Cauca,0
+30,Tumaco,117529,90789,Nariño,0
+32,Tunja,187689,7807,Boyacá,1
+1100,Tununguá,387,1474,Boyacá,0
+165,Túquerres,17549,22947,Nariño,0
+86,Turbaco,68957,5252,Bolívar,0
+511,Turbaná,13945,1086,Bolívar,0
+38,Turbo,67148,100738,Antioquia,0
+875,Turmequé,2561,3489,Boyacá,0
+693,Tuta,2704,7030,Boyacá,0
+1101,Tutazá,195,1659,Boyacá,0
+661,Ubalá,1282,9309,Cundinamarca,0
+872,Ubaque,879,5227,Cundinamarca,0
+174,Ubaté,25346,13672,Cundinamarca,0
+905,Ulloa,2682,2739,Valle del Cauca,0
+668,Úmbita,1847,8475,Boyacá,0
+715,Une,4643,4673,Cundinamarca,0
+506,Unguía,4746,10418,Chocó,0
+692,Unión Panamericana,4312,5436,Chocó,0
+773,Uramita,2603,5627,Antioquia,0
+36,Uribia,13389,173143,La Guajira,0
+147,Urrao,17645,27621,Antioquia,0
+426,Urumita,10744,7608,La Guajira,0
+708,Usiacurí,8414,1021,Atlántico,0
+937,Útica,2741,2275,Cundinamarca,0
+335,Valdivia,6730,16024,Antioquia,0
+152,Valencia,15968,27988,Córdoba,0
+965,Valle de San José,1954,2653,Santander,0
+855,Valle de San Juan,2930,3438,Tolima,0
+124,Valle del Guamuez,20771,32286,Putumayo,0
+15,Valledupar,405004,68228,Cesar,1
+868,Valparaíso,3376,2776,Antioquia,0
+617,Valparaíso,3868,7819,Caquetá,0
+718,Vegachí,5596,3677,Antioquia,0
+409,Vélez,10258,8735,Santander,0
+393,Venadillo,14368,5284,Tolima,0
+572,Venecia,6873,6358,Antioquia,0
+991,Venecia,1109,2961,Cundinamarca,0
+496,Ventaquemada,2431,13101,Boyacá,0
+799,Vergara,1545,6139,Cundinamarca,0
+822,Versalles,2932,4186,Valle del Cauca,0
+1071,Vetas,1332,1112,Santander,0
+984,Vianí,1340,2862,Cundinamarca,0
+768,Victoria,3648,4673,Caldas,0
+898,Vigía del Fuerte,2093,3494,Antioquia,0
+634,Vijes,7249,3898,Valle del Cauca,0
+919,Villa Caro,1974,3230,Norte de Santander,0
+459,Villa de Leyva,10265,6719,Boyacá,0
+69,Villa del Rosario,88649,3996,Norte de Santander,0
+473,Villa Rica,12851,3546,Cauca,0
+367,Villagarzón,11074,10141,Putumayo,0
+1086,Villagómez,623,1553,Cundinamarca,0
+658,Villahermosa,3690,6962,Tolima,0
+110,Villamaría,48625,9848,Caldas,0
+389,Villanueva,18481,1442,Bolívar,0
+317,Villanueva,20744,3332,Casanare,0
+262,Villanueva,19542,8423,La Guajira,0
+887,Villanueva,3618,2135,Santander,0
+385,Villapinzón,6639,13417,Cundinamarca,0
+907,Villarrica,2180,3209,Tolima,0
+11,Villavicencio,482045,23951,Meta,1
+816,Villavieja,2460,4851,Huila,0
+306,Villeta,16291,8979,Cundinamarca,0
+566,Viotá,4365,8977,Cundinamarca,0
+1038,Viracachá,373,2828,Boyacá,0
+291,Vistahermosa,9260,16648,Meta,0
+590,Viterbo,10286,2152,Caldas,0
+458,Yacopí,4004,13006,Cundinamarca,0
+638,Yacuanquer,2851,8213,Nariño,0
+730,Yaguará,7683,1380,Huila,0
+764,Yalí,3225,5175,Antioquia,0
+138,Yarumal,30905,16531,Antioquia,0
+1115,Yavaraté,0,1235,Vaupés,0
+315,Yolombó,7327,17057,Antioquia,0
+411,Yondó,9612,9380,Antioquia,0
+41,Yopal,130923,15281,Casanare,1
+476,Yotoco,8376,7969,Valle del Cauca,0
+53,Yumbo,107757,14961,Valle del Cauca,0
+616,Zambrano,10666,1022,Bolívar,0
+739,Zapatoca,5667,3224,Santander,0
+744,Zapayán,3649,5192,Magdalena,0
+240,Zaragoza,14137,16992,Antioquia,0
+145,Zarzal,32290,13391,Valle del Cauca,0
+971,Zetaquira,1057,3432,Boyacá,0
+895,Zipacón,2119,3512,Cundinamarca,0
+48,Zipaquirá,111025,15384,Cundinamarca,0
+103,Zona Bananera,5063,56309,Magdalena,0
